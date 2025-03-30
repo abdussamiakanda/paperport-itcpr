@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "PaperPort by ITCPR",
+    "version": "1.0",
+    "description": "Search and fetch paper metadata from the current page title.",
+    "permissions": ["tabs", "scripting"],
+    "host_permissions": [
+      "<all_urls>"
+    ],
+    "action": {
+      "default_icon": {
+        "48": "icons/icon.png"
+      },
+      "default_title": "Search Paper with PaperPort"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "icons": {
+      "48": "icons/icon.png"
+    }
+  }
+  
