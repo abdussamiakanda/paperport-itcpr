@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "PaperPort by ITCPR",
-    "version": "1.0",
+    "version": "1.2",
     "description": "Search and fetch paper metadata from the current page title.",
     "permissions": ["tabs", "scripting"],
     "host_permissions": [
