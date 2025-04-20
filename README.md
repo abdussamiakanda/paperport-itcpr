@@ -10,19 +10,14 @@ A browser extension designed to simplify academic research workflow. Quickly che
 
 ## Browser Compatibility
 
-- ✅ **Microsoft Edge**
-
-> Official store link for Edge coming soon.
-
-## Installation
-
-Currently, you can install PaperPort manually using the steps below:
+- **Microsoft Edge Add-ons Store**:
+  - [Install from Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/paperport-by-itcpr/dmebgfpjhfdibfiecifldodlcchemdob)
 
 ### Manual Installation (Chrome & Edge)
 
 1. **Download** the ZIP file from the repository:
    
-   [👉 Download ZIP](https://github.com/abdussamiakanda/paperport-itcpr/releases/tag/paperport)
+   [👉 Download ZIP](https://github.com/abdussamiakanda/paperport-itcpr)
 
 2. **Extract** the ZIP file into a folder on your computer.
 
@@ -39,7 +34,7 @@ Currently, you can install PaperPort manually using the steps below:
 
 Official versions of PaperPort will soon be available from:
 
-- [Microsoft Edge Add-ons Store](https://microsoftedge.microsoft.com/addons) *(coming soon)*
+- [Microsoft Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/paperport-by-itcpr/dmebgfpjhfdibfiecifldodlcchemdob)
 
 ## Useful Links
 
